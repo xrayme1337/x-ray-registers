@@ -1,0 +1,20 @@
+﻿# Protocols that adopted the SEAL Safe Harbor agreement
+# As of 16 Nov 2026 · 15 entries
+# Source: SEAL Safe Harbor registry (on-chain) · ties to players are X-RAY's
+# The whole list: https://x-ray.me/registers/safe-harbor
+Protocol,Adopted,Bounty,Chains in scope,Whitehat identity,Player on X-RAY
+Cetus Protocol,19 Oct 2026,"10% up to $1.0M, kept from the rescued funds",1,named,Cetus
+1inch,10 Aug 2026,10% up to $500K,15,pseudonymous,1Inch
+Accountable Protocol,5 Aug 2026,"10% up to $150K, kept from the rescued funds",6,anonymous,Accountable
+FlyingTulip,28 Jun 2026,10% up to $1.0M,5,anonymous,Flying Tulip
+Monolith,17 May 2026,"10% up to $1.0M, kept from the rescued funds",1,pseudonymous,Inverse Finance
+Sky,14 Mar 2026,10% up to $10.0M,7,named,Sky
+Euler Finance,4 Feb 2026,10% up to $2.5M,14,named,Euler
+Pendle,2 Feb 2026,"10% up to $2.0M, kept from the rescued funds",10,pseudonymous,Pendle
+Aave,28 Jan 2026,10% up to $1.0M,16,named,Aave
+Alchemix,28 Jan 2026,"10% up to $300K, kept from the rescued funds",7,anonymous,Alchemix
+Balancer,28 Jan 2026,10% up to $1.0M,10,named,Balancer
+ENS,28 Jan 2026,10% up to $250K,1,named,Ethereum Name Service
+Pareto,28 Jan 2026,10% up to $50K,4,anonymous,Pareto
+SiloDAO,28 Jan 2026,10% up to $1.0M,5,named,Silo Finance
+Uniswap,28 Jan 2026,"10% up to $2.3M, kept from the rescued funds",25,anonymous,Uniswap Labs

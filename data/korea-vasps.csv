@@ -1,0 +1,33 @@
+﻿# Korea's reported virtual asset service providers (VASPs)
+# As of 30 Oct 2026 · 28 entries
+# 출처: 금융정보분석원(KoFIU), kofiu.go.kr · ties to players are X-RAY's
+# The whole list: https://x-ray.me/registers/korea-vasps
+Service,Legal entity,Business,Report accepted,Renewed,Status,Player on X-RAY
+업비트,두나무 주식회사,"transfer, custody, brokerage",6 Oct 2021,23 Dec 2025,reported,Upbit
+디지털엑스,디지털엑스 주식회사,"transfer, custody, brokerage",20 Oct 2021,6 Feb 2026,reported,Korbit
+코인원,주식회사 코인원,"transfer, custody, brokerage",25 Nov 2021,29 May 2026,reported,Coinone
+빗썸,주식회사 빗썸,"buy/sell, exchange, transfer, custody, brokerage",2 Dec 2021,—,reported,Bithumb
+플라이빗,주식회사 한국디지털거래소,"transfer, custody, brokerage",1 Dec 2021,22 Mar 2025,reported,—
+고팍스,주식회사 스트리미,"buy/sell, exchange, transfer, custody, brokerage",9 Dec 2021,—,reported,GOPAX
+BTX,차일들리 주식회사,"transfer, custody, brokerage",9 Dec 2021,6 Feb 2026,reported,—
+포블,주식회사 포블게이트,"transfer, custody, brokerage",21 Dec 2021,22 Mar 2025,reported,—
+코어닥스,㈜코어닥스,"buy/sell, exchange, transfer, custody, brokerage",17 Dec 2021,—,reported,—
+비블록,주식회사 그레이브릿지,"transfer, custody, brokerage",23 Dec 2021,15 Feb 2025,reported,—
+크립토닷컴,주식회사 포리스닥스코리아리미티드,"buy/sell, exchange, transfer, custody, brokerage",30 Dec 2021,—,reported,Crypto.com
+빗크몬,주식회사 골든퓨쳐스,"transfer, custody, brokerage",30 Dec 2021,25 Apr 2025,reported,—
+프라뱅,주식회사 프라뱅,"transfer, custody, brokerage",30 Dec 2021,3 Jan 2025,reported,—
+보라비트,주식회사 보라비트,"buy/sell, exchange, transfer, custody, brokerage",30 Dec 2021,—,reported,—
+코다(KODA),주식회사 한국디지털에셋,"transfer, custody",17 Dec 2021,28 Feb 2025,reported,—
+케이닥(KDAC),주식회사 한국디지털자산수탁,"transfer, custody",17 Dec 2021,22 Mar 2025,reported,—
+오하이월렛,주식회사 헥토월렛원,"transfer, custody",30 Dec 2021,28 Mar 2025,reported,—
+오아시스거래소,㈜가디언홀딩스,"buy/sell, exchange, transfer, custody, brokerage",10 Feb 2022,—,reported,—
+커스텔라,주식회사 마인드시프트,"transfer, custody",27 Jun 2022,—,reported,—
+인피닛블록,주식회사 인피닛블록,"transfer, custody",7 Aug 2023,—,reported,—
+디에스알브이랩스,㈜디에스알브이랩스,"transfer, custody",25 Sep 2024,—,reported,—
+비댁스,비댁스 주식회사,"transfer, custody",25 Sep 2024,—,reported,—
+INEX(인엑스),㈜인피니티익스체인지코리아,"transfer, custody, brokerage",15 Oct 2024,—,reported,—
+웨이브릿지 프라임,㈜웨이브릿지,"exchange, transfer, custody, brokerage",18 Dec 2024,—,reported,—
+바우맨,㈜해피블록,"exchange, transfer, custody, brokerage",17 Jan 2025,—,reported,—
+로빗,㈜블로세이프,"transfer, custody",29 Aug 2025,—,reported,—
+ABC Cloud Wallet,㈜안랩블록체인컴퍼니,"transfer, custody",23 Apr 2026,—,reported,—
+비트고코리아,비트고코리아㈜,"transfer, custody, brokerage",18 Aug 2026,—,reported,BitGo

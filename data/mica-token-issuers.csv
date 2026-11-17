@@ -1,0 +1,46 @@
+﻿# MiCA stablecoin issuers: e-money and asset-referenced tokens
+# As of 16 Nov 2026 · 41 entries
+# Source: ESMA, interim MiCA register · ties to players are X-RAY's
+# The whole list: https://x-ray.me/registers/mica-token-issuers
+Issuer,Brands,Token type,Home state,Notified,Token identifiers (DTI),Player on X-RAY
+Qivalis B.V.,Qivalis B.V.,E-money token (EMT),Netherlands · De Nederlansche Bank (DNB),21 Oct 2026,"NL71R0228, V456JNMB3",—
+DINARO company for electronic money issuing and payment services Ltd.,Dinaro,E-money token (EMT),Slovenia · Bank of Slovenia,1 Sep 2026,"2682FMR4J, M5ZR1C4B3",—
+Bridge Building S.A.,—,E-money token (EMT),Luxembourg · Commission de Surveillance du Secteur Financier (CSSF),23 Jul 2026,"4ZD0FM2VG, 8KV3CMVM5, 9J1RXQWBK, AVALANCHE",—
+CACEIS BANK SA,CACEIS BANK,E-money token (EMT),France · Autorité de Contrôle Prudentiel et de Resolution (ACPR),30 Jun 2026,"2GPH3VZ45, JTSXN8VGH",—
+Aplauz NL B.V.,Aplauz,E-money token (EMT),Netherlands · De Nederlansche Bank (DNB),25 Jun 2026,—,—
+AllUnity GmbH,—,E-money token (EMT),Germany · Federal Financial Supervisory Authority (BaFin),9 Jun 2026,"35PTC5Z63, 5Z0LL4J7S, D1PFLVZDZ, GCN4ZMN5R",—
+AllUnity GmbH,—,E-money token (EMT),Germany · Federal Financial Supervisory Authority (BaFin),9 Jun 2026,"25XRLGD08, 3RH5FHFMR, 67JKQ4MKT, 95139NRZ1",—
+AllUnity GmbH,—,E-money token (EMT),Germany · Federal Financial Supervisory Authority (BaFin),6 May 2026,"6TR5F3KKF, 7BN8BLGZH, HTKFL04WZ, VTFCC12GK",—
+AllUnity GmbH,—,E-money token (EMT),Germany · Federal Financial Supervisory Authority (BaFin),6 May 2026,"6TR5F3KKF, 7BN8BLGZH, HTKFL04WZ, JPJHD47F4",—
+SIA GR8 PAY,GR8.money,E-money token (EMT),Latvia · Latvijas Banka,21 Apr 2026,"5X779H3M3, 9JDH8QBV2",—
+SIA GR8 PAY,GR8.money,E-money token (EMT),Latvia · Latvijas Banka,21 Apr 2026,"FFBSF3LWN, PJM1C1PM6",—
+"BISON BANK, S.A.",—,E-money token (EMT),Portugal · Banco de Portugal (BdP),12 Mar 2026,"5HSDQW767, F6CCFFX18",—
+"BISON BANK, S.A.",—,E-money token (EMT),Portugal · Banco de Portugal (BdP),12 Mar 2026,"H5MHNTQW9, JQNWG6VL5",—
+HEURO SAS,OuiTrust,E-money token (EMT),France · Autorité de Contrôle Prudentiel et de Resolution (ACPR),26 Feb 2026,"4ZTHF0N0H, DP1R488SF, TFGXFRD1J",—
+"Newrails, UAB",Newrails,E-money token (EMT),Lithuania · Bank of Lithuania,26 Jan 2026,—,—
+AllUnity GmbH,—,E-money token (EMT),Germany · Federal Financial Supervisory Authority (BaFin),19 Jan 2026,"D1PFLVZDZ, VP84J2JSS",—
+Monerium ehf,Monerium,E-money token (EMT),Iceland · Central Bank of Iceland,9 Jan 2026,"3P9X6K6P2, 5LN265K07, 6KL7TK20G, 81PTSP744",—
+Paxos Issuance Europe Oy,Paxos EU,E-money token (EMT),Finland · Finanssivalvonta (FIN-FSA),19 Dec 2025,—,Paxos
+StablR Ltd,—,E-money token (EMT),Malta · Malta Financial Services Authority,14 Nov 2025,—,StablR Euro
+StaBillon sp. z o.o.,StaBillon,E-money token (EMT),Poland · Polish Financial Supervision Authority (KNF),30 Oct 2025,—,—
+AIEU Services Limited S.A.,—,E-money token (EMT),Luxembourg · Commission de Surveillance du Secteur Financier (CSSF),22 Oct 2025,—,—
+Payment Corporation SE,Stable Labs,E-money token (EMT),Czechia · Czech National Bank (CNB),16 Oct 2025,—,—
+Oddo BHF SCA,Oddo BHF,E-money token (EMT),France · Autorité de Contrôle Prudentiel et de Resolution (ACPR),15 Oct 2025,"H1LDKQR5B, WJV6THJ2D",—
+Payment Corporation SE,Stable Labs,E-money token (EMT),Czechia · Czech National Bank (CNB),20 Sep 2025,—,—
+UAB BLUE EMI LT,BLUE EMI LT,E-money token (EMT),Lithuania · Bank of Lithuania (LSC),1 Aug 2025,—,—
+AllUnity GmbH,—,E-money token (EMT),Germany · Federal Financial Supervisory Authority (BaFin),20 Jun 2025,"4T8Q7PXDR, 72FFN7360, 8F9FV1RW0, DP8LJM6WW",—
+Paxos Issuance Europe Oy,Paxos,E-money token (EMT),Finland · Finanssivalvonta (FIN-FSA),9 Jun 2025,"2VT5W3GH7, R9MZCNWS4",Paxos
+Payment Corporation SE,Stable Labs,E-money token (EMT),Czechia · Czech National Bank (CNB),17 May 2025,—,—
+Eurodollar ApS,Eurodollar,E-money token (EMT),Denmark · Finanstilsynet,10 Apr 2025,—,—
+Quantoz Payments B.V,Quantoz Payments,E-money token (EMT),Netherlands · De Nederlandsche Bank (DNB),24 Mar 2025,—,Quantoz USDQ
+Fiat Republic Netherlands,Fiat Republic,E-money token (EMT),Netherlands · De Nederlandsche Bank (DNB),2 Dec 2024,—,—
+Stable mint Ltd,Stable mint,E-money token (EMT),Malta · Malta Financial Services Authority,27 Nov 2024,—,—
+SALVUS,—,E-money token (EMT),France · Autorité de Contrôle Prudentiel et de Resolution (ACPR),22 Nov 2024,"2BKLSP3D6, BNTTMH9HK, KR4DF4ZJ2",—
+Banking Circle S.A.,Banking Circle,E-money token (EMT),Luxembourg · Commission de Surveillance du Secteur Financier (CSSF),28 Aug 2024,—,—
+Stable mint Ltd,Stable mint,E-money token (EMT),Malta · Malta Financial Services Authority,8 Aug 2024,—,—
+Société Générale - Forge,—,E-money token (EMT),France · Autorité de Contrôle Prudentiel et de Resolution (ACPR),16 Jul 2024,"7MV60JJTP, 8TF1FZX7H, 9XDHG5RZQ, LD6JM2JN2",EUR CoinVertible
+Circle Internet Financial Europe SAS,—,E-money token (EMT),France · Autorité de Contrôle Prudentiel et de Resolution (ACPR),1 Jul 2024,"13XTMPZT3, FJM594L0V, FMXXP963M, FZQ4WZNHC",Circle
+Circle Internet Financial Europe SAS,—,E-money token (EMT),France · Autorité de Contrôle Prudentiel et de Resolution (ACPR),1 Jul 2024,"2ZTG3NNVB, 45J6XJX7H, 4ZSZS1F4F, 54VFN74B3",Circle
+Société Générale - Forge,—,E-money token (EMT),France · Autorité de Contrôle Prudentiel et de Resolution (ACPR),1 Jul 2024,"24QFRJ6Q9, 3NG1PDSJM, 9W5C49FJV, BWFR5658W",EUR CoinVertible
+Paxos Issuance Europe Oy,Paxos EU,E-money token (EMT),Finland · Finanssivalvonta (FIN-FSA),29 Jun 2024,—,Paxos
+Paxos Issuance Europe Oy,Paxos EU,E-money token (EMT),Finland · Finanssivalvonta (FIN-FSA),29 Jun 2024,—,Paxos

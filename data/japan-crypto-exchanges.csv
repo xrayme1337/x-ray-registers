@@ -1,0 +1,34 @@
+﻿# Japan's registered crypto-asset exchange service providers
+# As of 30 Sep 2026 · 29 entries
+# Source: Financial Services Agency website (https://www.fsa.go.jp/en/regulated/licensed/index.html) · ties to players are X-RAY's
+# The whole list: https://x-ray.me/registers/japan-crypto-exchanges
+Provider,Register,Bureau and number,Registered,Assets handled,File as of,Player on X-RAY
+"bitbank, inc.",Crypto-asset exchange,Kanto No. 00004,29 Sep 2017,44,30 Sep 2026,bitbank
+"bitFlyer, Inc.",Crypto-asset exchange,Kanto No. 00003,29 Sep 2017,44,30 Sep 2026,bitFlyer
+BitTrade Inc.,Crypto-asset exchange,Kanto No. 00007,29 Sep 2017,47,30 Sep 2026,BitTrade
+"Btc Box Co., Ltd.",Crypto-asset exchange,Kanto No. 00008,29 Sep 2017,7,30 Sep 2026,—
+Custodiem K.K.,Crypto-asset exchange,Kanto No. 00002,29 Sep 2017,14,30 Sep 2026,—
+"GMO Coin, Inc.",Crypto-asset exchange,Kanto No. 00006,29 Sep 2017,24,30 Sep 2026,GMO Coin
+"MONEY PARTNERS CO., LTD.",Crypto-asset exchange,Kanto No. 00001,29 Sep 2017,1,30 Sep 2026,—
+Zaif Inc.,Crypto-asset exchange,Kinki No. 00001,29 Sep 2017,24,30 Sep 2026,Zaif
+"FINX JCrypto Co., Ltd.",Crypto-asset exchange,Kanto No. 00012,1 Dec 2017,21,30 Sep 2026,—
+"SBI VC Trade Co., Ltd.",Crypto-asset exchange,Kanto No. 00011,1 Dec 2017,37,30 Sep 2026,SBI VC Trade
+"COINHUB, INC.",Crypto-asset exchange,Kanto No. 00013,26 Dec 2017,1,30 Sep 2026,—
+"Coincheck, Inc.",Crypto-asset exchange,Kanto No. 00014,11 Jan 2019,37,30 Sep 2026,Coincheck
+"Rakuten Wallet, Inc.",Crypto-asset exchange,Kanto No. 00015,25 Mar 2019,14,30 Sep 2026,Rakuten Wallet
+S.BLOX Inc.,Crypto-asset exchange,Kanto No. 00016,25 Mar 2019,8,30 Sep 2026,—
+"Gate Japan Co., Ltd.",Crypto-asset exchange,Kanto No. 00018,27 Nov 2019,0,30 Sep 2026,Gate
+OKCoin Japan K.K.,Crypto-asset exchange,Kanto No. 00020,30 Mar 2020,54,30 Sep 2026,Okcoin
+OSL Japan K.K.,Crypto-asset exchange,Kanto No. 00023,23 Sep 2020,5,30 Sep 2026,OSL Exchange
+"Digital Asset Markets, Inc.",Crypto-asset exchange,Kanto No. 00024,17 Feb 2021,4,30 Sep 2026,—
+MERCURY INC.,Crypto-asset exchange,Kanto No. 00025,17 Feb 2021,25,30 Sep 2026,—
+BACKSEAT Exchange Inc.,Crypto-asset exchange,Kanto No. 00026,16 Apr 2021,5,30 Sep 2026,—
+"Coinbase Co., Ltd.",Crypto-asset exchange,Kanto No. 00028,18 Jun 2021,0,30 Sep 2026,Coinbase
+"Gaia Co., Ltd.",Crypto-asset exchange,Kinki No. 00004,18 Jun 2021,3,30 Sep 2026,—
+"HashKey Japan Co., Ltd.",Crypto-asset exchange,Kanto No. 00027,18 Jun 2021,2,30 Sep 2026,HashKey Exchange
+"Crypto Garage, Inc.",Crypto-asset exchange,Kanto No. 00029,29 Jun 2021,9,30 Sep 2026,—
+"Mercoin, Inc.",Crypto-asset exchange,Kanto No. 00030,17 Jun 2022,16,30 Sep 2026,Mercoin
+Binance Japan Inc.,Crypto-asset exchange,Kanto No. 00031,14 Oct 2022,66,30 Sep 2026,Binance CEX
+"Laser Digital Japan Co., Ltd.",Crypto-asset exchange,Kanto No. 00032,21 Aug 2026,6,30 Sep 2026,—
+"SBI VC Trade Co., Ltd.",Electronic payment instruments,Kanto No. 00001,4 Mar 2025,3,27 Aug 2026,SBI VC Trade
+"Coincheck, Inc.",Electronic payment instruments,Kanto No. 00002,27 Aug 2026,1,27 Aug 2026,Coincheck

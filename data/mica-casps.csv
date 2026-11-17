@@ -1,0 +1,55 @@
+﻿# MiCA-authorised crypto-asset service providers (CASPs)
+# As of 16 Nov 2026 · 402 entries
+# Source: ESMA, interim MiCA register · ties to players are X-RAY's
+# Sample: the first 50 of 402 rows. The whole list: https://x-ray.me/registers/mica-casps · an agent reads it in full over MCP: https://x-ray.me/docs/connect
+Provider,Brands,Home state,Authorised or notified,Services,Passported to,Player on X-RAY
+VR-Bank Passau eG,—,Germany · Federal Financial Supervisory Authority (BaFin),from 7 Dec 2026,order execution,1 state,—
+Raiffeisenbank Landshuter Land eG,—,Germany · Federal Financial Supervisory Authority (BaFin),from 3 Dec 2026,order execution,1 state,—
+Raiffeisenbank Kirchweihtal eG,—,Germany · Federal Financial Supervisory Authority (BaFin),from 25 Nov 2026,order execution,1 state,—
+Volksbank Oberberg eG,—,Germany · Federal Financial Supervisory Authority (BaFin),from 19 Nov 2026,order execution,1 state,—
+Volksbank in Ostwestfalen eG,—,Germany · Federal Financial Supervisory Authority (BaFin),from 18 Nov 2026,order execution,1 state,—
+VR Bank Lahn-Dill eG,—,Germany · Federal Financial Supervisory Authority (BaFin),13 Nov 2026,order execution,1 state,—
+Volksbank Erft eG,—,Germany · Federal Financial Supervisory Authority (BaFin),12 Nov 2026,order execution,1 state,—
+VR Bank Neuburg-Rain eG,—,Germany · Federal Financial Supervisory Authority (BaFin),12 Nov 2026,order execution,1 state,—
+Raiffeisenbank Aresing-Gerolsbach eG,—,Germany · Federal Financial Supervisory Authority (BaFin),10 Nov 2026,order execution,1 state,—
+Transak GmbH,Transak,Austria · Austrian Financial Market Authority (FMA),10 Nov 2026,exchange for funds,30 states,—
+UAB DriveWealth Europe,DriveWealth,Lithuania · Bank of Lithuania (LSC),9 Nov 2026,"custody, order execution, order routing",29 states,—
+Volksbank Ettlingen eG,—,Germany · Federal Financial Supervisory Authority (BaFin),9 Nov 2026,order execution,1 state,—
+"ABANCA CORPORACION BANCARIA, S.A.",ABANCA,Spain · Comision Nacional del Mercado de Valores (CNMV),6 Nov 2026,"custody, order routing, transfers",1 state,—
+Volksbank Raiffeisenbank Regensburg-Schwandorf eG,—,Germany · Federal Financial Supervisory Authority (BaFin),5 Nov 2026,order execution,1 state,—
+Raiffeisen-Volksbank Ebersberg eG,—,Germany · Federal Financial Supervisory Authority (BaFin),3 Nov 2026,order execution,1 state,—
+Raiffeisenbank Wittelsbacher Land eG,—,Germany · Federal Financial Supervisory Authority (BaFin),3 Nov 2026,order execution,1 state,—
+VR-Bank Ostalb eG,—,Germany · Federal Financial Supervisory Authority (BaFin),2 Nov 2026,order execution,1 state,—
+VSMARKETS LTD,—,Cyprus · Cyprus Securities and Exchange Commission (CySEC),2 Nov 2026,"custody, exchange for funds, crypto-to-crypto exchange, order execution, order routing, transfers",1 state,—
+Raiffeisenbank Rehling eG,—,Germany · Federal Financial Supervisory Authority (BaFin),30 Oct 2026,order execution,1 state,—
+Volksbank in der Hohen Mark eG,—,Germany · Federal Financial Supervisory Authority (BaFin),30 Oct 2026,order execution,1 state,—
+Openbank Deutschland AG,—,Germany · Federal Financial Supervisory Authority (BaFin),23 Oct 2026,"custody, order execution",1 state,—
+Volksbank Niederrhein eG,—,Germany · Federal Financial Supervisory Authority (BaFin),22 Oct 2026,order execution,1 state,—
+Raiffeisenbank Eifel eG,—,Germany · Federal Financial Supervisory Authority (BaFin),19 Oct 2026,order execution,1 state,—
+Sparda-Bank Baden-Württemberg eG,—,Germany · Federal Financial Supervisory Authority (BaFin),19 Oct 2026,order execution,1 state,—
+FF Digital EOOD,FF Digital,Bulgaria · Financial Supervision Commission (FSC),15 Oct 2026,"custody, trading platform, exchange for funds, crypto-to-crypto exchange, order execution, order routing, portfolio management, transfers",30 states,—
+MEGE zweite GmbH,BingX EU,Austria · Austrian Financial Market Authority (FMA),13 Oct 2026,"custody, exchange for funds, crypto-to-crypto exchange, transfers",29 states,BingX
+Deutsche Bank Aktiengesellschaft,—,Germany · Federal Financial Supervisory Authority (BaFin),12 Oct 2026,"custody, transfers",30 states,—
+Münchner Bank eG,—,Germany · Federal Financial Supervisory Authority (BaFin),12 Oct 2026,order execution,1 state,—
+Raiffeisenbank im Oberland eG,—,Germany · Federal Financial Supervisory Authority (BaFin),12 Oct 2026,order execution,1 state,—
+Volksbank eG,—,Germany · Federal Financial Supervisory Authority (BaFin),12 Oct 2026,order execution,1 state,—
+VR Bank im südlichen Franken eG,—,Germany · Federal Financial Supervisory Authority (BaFin),12 Oct 2026,order execution,1 state,—
+PRAKMA MARKETS S.L.,GOIN CRYPTO,Spain · Comision Nacional del Mercado de Valores (CNMV),9 Oct 2026,"custody, order routing, transfers",3 states,—
+YOUHODLER ITALY S.R.L.,YouHodler,Italy · Commissione Nazionale per le Societa e la Borsa (CONSOB),8 Oct 2026,"custody, exchange for funds, crypto-to-crypto exchange, order execution, transfers",27 states,—
+KSW Vermögensverwaltung AG,—,Germany · Federal Financial Supervisory Authority (BaFin),7 Oct 2026,"order routing, portfolio management",1 state,—
+Volksbank Baumberge eG,—,Germany · Federal Financial Supervisory Authority (BaFin),6 Oct 2026,order execution,1 state,—
+VR GenoBank DonauWald eG,—,Germany · Federal Financial Supervisory Authority (BaFin),6 Oct 2026,order execution,1 state,—
+VR-Bank Alb-Blau-Donau eG,—,Germany · Federal Financial Supervisory Authority (BaFin),6 Oct 2026,order execution,1 state,—
+Raiffeisenbank im Fuldaer Land eG,—,Germany · Federal Financial Supervisory Authority (BaFin),2 Oct 2026,order execution,1 state,—
+Sparkasse Bank Malta Plc,—,Malta · Malta Financial Services Authority (MFSA),2 Oct 2026,"custody, order execution, order routing",1 state,—
+VR Bank Amberg-Sulzbach eG,—,Germany · Federal Financial Supervisory Authority (BaFin),2 Oct 2026,order execution,1 state,—
+Atrya Technologies SIA,—,Latvia · Latvijas Banka,30 Sep 2026,"custody, crypto-to-crypto exchange",30 states,—
+Noah LV SIA,Noah,Latvia · Latvijas Banka,30 Sep 2026,"custody, exchange for funds, order execution, transfers",30 states,—
+VR Bank Nord eG,—,Germany · Federal Financial Supervisory Authority (BaFin),30 Sep 2026,order execution,1 state,—
+Volksbank Olpe-Wenden-Drolshagen eG,—,Germany · Federal Financial Supervisory Authority (BaFin),29 Sep 2026,order execution,1 state,—
+Wiesbadener Volksbank eG,—,Germany · Federal Financial Supervisory Authority (BaFin),29 Sep 2026,order execution,1 state,—
+"Vereinigte Volksbank Raiffeisenbank eG, Reinheim",—,Germany · Federal Financial Supervisory Authority (BaFin),24 Sep 2026,order execution,1 state,—
+VR Bank zwischen den Meeren eG,—,Germany · Federal Financial Supervisory Authority (BaFin),24 Sep 2026,order execution,1 state,—
+VS Digital Europe Ltd.,VS Digital,Malta · Malta Financial Services Authority (MFSA),23 Sep 2026,"custody, exchange for funds, crypto-to-crypto exchange, order execution, transfers",1 state,—
+Vereinigte VR Bank eG,—,Germany · Federal Financial Supervisory Authority (BaFin),17 Sep 2026,order execution,1 state,—
+Volksbank Göppingen eG,—,Germany · Federal Financial Supervisory Authority (BaFin),17 Sep 2026,order execution,1 state,—

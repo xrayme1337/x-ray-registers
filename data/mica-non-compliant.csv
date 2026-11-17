@@ -1,0 +1,55 @@
+﻿# Entities EU regulators list as non-compliant with MiCA
+# As of 16 Nov 2026 · 216 entries
+# Source: ESMA, interim MiCA register · ties to players are X-RAY's
+# Sample: the first 50 of 216 rows. The whole list: https://x-ray.me/registers/mica-non-compliant · an agent reads it in full over MCP: https://x-ray.me/docs/connect
+Entity,Website,Regulator,Decision,Reason,Player on X-RAY
+Renditanzia,renditanzia-it.com,Italy · Commissione Nazionale per le Societa e la Borsa (CONSOB),4 Nov 2026,—,—
+Beaver Dealer UAB,beaverdealer.com,Lithuania · Bank of Lithuania (LSC),3 Nov 2026,c. exchange of crypto-assets for funds | d. exchange of crypto-assets for other crypto-assets,—
+Bitstore Europe UAB,bit.store,Lithuania · Bank of Lithuania (LSC),3 Nov 2026,a. providing custody and administration of crypto-assets on behalf of clients | c. exchange of crypto-assets for funds |j. providing transfer services for…,—
+BlackFort Pay UAB,blackfortpay.com,Lithuania · Bank of Lithuania (LSC),3 Nov 2026,a. providing custody and administration of crypto-assets on behalf of clients | c. exchange of crypto-assets for funds | d. exchange of crypto-assets for other…,—
+Coailray UAB,sends.plus,Lithuania · Bank of Lithuania (LSC),3 Nov 2026,a. providing custody and administration of crypto-assets on behalf of clients | c. exchange of crypto-assets for funds | d. exchange of crypto-assets for other…,—
+Cvetpay UAB,cvetpay.com,Lithuania · Bank of Lithuania (LSC),3 Nov 2026,c. exchange of crypto-assets for funds | d. exchange of crypto-assets for other crypto-assets,—
+Euchanges UAB,orizon.finance,Lithuania · Bank of Lithuania (LSC),3 Nov 2026,a. providing custody and administration of crypto-assets on behalf of clients | c. exchange of crypto-assets for funds | d. exchange of crypto-assets for other…,—
+Europe Exchange UAB,uabexchange.com,Lithuania · Bank of Lithuania (LSC),3 Nov 2026,a. providing custody and administration of crypto-assets on behalf of clients | c. exchange of crypto-assets for funds | d. exchange of crypto-assets for other…,—
+FundFy Investment Club UAB,fundfy.io,Lithuania · Bank of Lithuania (LSC),3 Nov 2026,a. providing custody and administration of crypto-assets on behalf of clients | c. exchange of crypto-assets for funds | i. providing portfolio management on…,—
+GoFin Technology UAB,gofinans.com,Lithuania · Bank of Lithuania (LSC),3 Nov 2026,a. providing custody and administration of crypto-assets on behalf of clients | c. exchange of crypto-assets for funds | e. execution of orders for…,—
+HUMB UAB,humb.io,Lithuania · Bank of Lithuania (LSC),3 Nov 2026,a. providing custody and administration of crypto-assets on behalf of clients | b. operation of a trading platform for crypto-assets | c. exchange of…,—
+Liq Finance UAB,rize.hk,Lithuania · Bank of Lithuania (LSC),3 Nov 2026,a. providing custody and administration of crypto-assets on behalf of clients | c. exchange of crypto-assets for funds| e. execution of orders for…,—
+MultiExchange UAB,multiexc.com,Lithuania · Bank of Lithuania (LSC),3 Nov 2026,c. exchange of crypto-assets for funds | e. execution of orders for crypto-assets on behalf of clients | g. reception and transmission of orders for…,—
+Orange stream UAB,cryptoorange.lt,Lithuania · Bank of Lithuania (LSC),3 Nov 2026,a. providing custody and administration of crypto-assets on behalf of clients | b. operation of a trading platform for crypto-assets | c. exchange of…,—
+POD Europe UAB,partofdream.io,Lithuania · Bank of Lithuania (LSC),3 Nov 2026,b. operation of a trading platform for crypto-assets | c. exchange of crypto-assets for funds | d. exchange of crypto-assets for other crypto-assets | f.…,—
+"UAB ""Coincierge holdings""",coincierge.io,Lithuania · Bank of Lithuania (LSC),3 Nov 2026,a. providing custody and administration of crypto-assets on behalf of clients | c. exchange of crypto-assets for funds | d. exchange of crypto-assets for other…,—
+"UAB ""Sapion Solution""",sapion.org,Lithuania · Bank of Lithuania (LSC),3 Nov 2026,a. providing custody and administration of crypto-assets on behalf of clients | c. exchange of crypto-assets for funds |j. providing transfer services for…,—
+"UAB ""Unich Global""",token.unich.com,Lithuania · Bank of Lithuania (LSC),3 Nov 2026,b. operation of a trading platform for crypto-assets | d. exchange of crypto-assets for other crypto-assets | f. placing of crypto-assets | g. reception and…,—
+UAB IO Ready,bitreadypay.com,Lithuania · Bank of Lithuania (LSC),3 Nov 2026,c. exchange of crypto-assets for funds | d. exchange of crypto-assets for other crypto-assets |j. providing transfer services for crypto-assets on behalf of…,—
+UAB ROQQU TECHNOLOGIES,internalwebsite.roqqu.com,Lithuania · Bank of Lithuania (LSC),3 Nov 2026,a. providing custody and administration of crypto-assets on behalf of clients | c. exchange of crypto-assets for funds | d. exchange of crypto-assets for other…,—
+UAB Veetrblox,veetrblox.com,Lithuania · Bank of Lithuania (LSC),3 Nov 2026,c. exchange of crypto-assets for funds,—
+Wct pay UAB,wctpay.com,Lithuania · Bank of Lithuania (LSC),3 Nov 2026,c. exchange of crypto-assets for funds | e. execution of orders for crypto-assets on behalf of clients | g. reception and transmission of orders for…,—
+Xpay Global UAB,xpayglobal.io,Lithuania · Bank of Lithuania (LSC),3 Nov 2026,a. providing custody and administration of crypto-assets on behalf of clients | c. exchange of crypto-assets for funds | d. exchange of crypto-assets for other…,—
+Cardinemodevo,cardinemodevo.it,Italy · Commissione Nazionale per le Societa e la Borsa (CONSOB),28 Oct 2026,—,—
+Chainexelonfin,chainexelonfin.it,Italy · Commissione Nazionale per le Societa e la Borsa (CONSOB),28 Oct 2026,—,—
+Dashaxid400,dashaxid400.it,Italy · Commissione Nazionale per le Societa e la Borsa (CONSOB),28 Oct 2026,—,—
+Smartbitboost,smartbitboost.it,Italy · Commissione Nazionale per le Societa e la Borsa (CONSOB),28 Oct 2026,—,—
+Solvexpulse53ai,solvexpulse53ai.it,Italy · Commissione Nazionale per le Societa e la Borsa (CONSOB),28 Oct 2026,—,—
+Sovriapro,sovriapro.it,Italy · Commissione Nazionale per le Societa e la Borsa (CONSOB),28 Oct 2026,—,—
+Tesorvenza,tesorvenza.it,Italy · Commissione Nazionale per le Societa e la Borsa (CONSOB),28 Oct 2026,—,—
+Valutixitalia,valutixitalia.it,Italy · Commissione Nazionale per le Societa e la Borsa (CONSOB),28 Oct 2026,—,—
+Blocknet Finance UAB,bnfex.com,Lithuania · Bank of Lithuania (LSC),27 Oct 2026,a. providing custody and administration of crypto-assets on behalf of clients | b. operation of a trading platform for crypto-assets | c. exchange of…,—
+Flipchain UAB,flipchain.io,Lithuania · Bank of Lithuania (LSC),27 Oct 2026,a. providing custody and administration of crypto-assets on behalf of clients | c. exchange of crypto-assets for funds |j. providing transfer services for…,—
+TONWEX UAB,tonwex.com,Lithuania · Bank of Lithuania (LSC),27 Oct 2026,a. providing custody and administration of crypto-assets on behalf of clients | c. exchange of crypto-assets for funds | d. exchange of crypto-assets for other…,—
+"UAB ""E-gates""",e-gates.io,Lithuania · Bank of Lithuania (LSC),27 Oct 2026,c. exchange of crypto-assets for funds | d. exchange of crypto-assets for other crypto-assets |j. providing transfer services for crypto-assets on behalf of…,—
+UAB SwiftHorizon,swifthorizon.net,Lithuania · Bank of Lithuania (LSC),27 Oct 2026,c. exchange of crypto-assets for funds | e. execution of orders for crypto-assets on behalf of clients | g. reception and transmission of orders for…,—
+Brelliozo IA,brelliozoia-it.com,Italy · Commissione Nazionale per le Societa e la Borsa (CONSOB),21 Oct 2026,—,—
+IncomeMax,iincome-max.com,Italy · Commissione Nazionale per le Societa e la Borsa (CONSOB),21 Oct 2026,—,—
+ASWD78,aswd78.it,Italy · Commissione Nazionale per le Societa e la Borsa (CONSOB),14 Oct 2026,—,—
+CDZG36,cdzg36.it,Italy · Commissione Nazionale per le Societa e la Borsa (CONSOB),14 Oct 2026,—,—
+EZWQ66,ezwq66.it,Italy · Commissione Nazionale per le Societa e la Borsa (CONSOB),14 Oct 2026,—,—
+HREE25,hree25.it,Italy · Commissione Nazionale per le Societa e la Borsa (CONSOB),14 Oct 2026,—,—
+K9C3Y,k9c3y.fr,Italy · Commissione Nazionale per le Societa e la Borsa (CONSOB),14 Oct 2026,—,—
+Nextrize Invest,nextrize.org,Italy · Commissione Nazionale per le Societa e la Borsa (CONSOB),15 Sep 2026,—,—
+White Mint Financial Company s.r.o.,algosone.ai,Czechia · Czech National Bank,25 Aug 2026,White Mint Financial Company provides crypto-asset services without the required MiCA licence.,—
+Cervo Rendisco,cervo-rendisco.com,Italy · Commissione Nazionale per le Societa e la Borsa (CONSOB),22 Jul 2026,—,—
+Corona Fondenza,corona-fondenza.net,Italy · Commissione Nazionale per le Societa e la Borsa (CONSOB),22 Jul 2026,—,—
+Flandenzo,flandenzo-it.org,Italy · Commissione Nazionale per le Societa e la Borsa (CONSOB),22 Jul 2026,—,—
+Kortex,kortexbit.com,Italy · Commissione Nazionale per le Societa e la Borsa (CONSOB),8 Jul 2026,—,—
+Reversal Investment Group,reversalsimgroup.com,Italy · Commissione Nazionale per le Societa e la Borsa (CONSOB),8 Jul 2026,—,—

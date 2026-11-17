@@ -1,0 +1,55 @@
+﻿# Ethereum layer 2s by stage and value secured
+# As of 17 Nov 2026 · 90 entries
+# Source: L2BEAT (MIT) · ties to players are X-RAY's
+# Sample: the first 50 of 90 rows. The whole list: https://x-ray.me/registers/l2-stages · an agent reads it in full over MCP: https://x-ray.me/docs/connect
+Project,Type,Stage,Stack,Data availability,Value secured,Player on X-RAY
+Base Chain,Optimistic Rollup,Stage 1,OP Stack,Ethereum with blobs,$13.15B,Base
+Arbitrum One,Optimistic Rollup,Stage 1,Arbitrum,Ethereum with blobs,$8.99B,Arbitrum
+Hyperliquid,Other,Not applicable,—,Custom DA solution,$5.68B,Hyperliquid
+Polygon PoS,Other,Not applicable,—,Custom DA solution,$3.61B,Polygon
+Robinhood Chain,Other,Stage 0,Arbitrum,Ethereum with blobs,$1.92B,Robinhood Chain
+OP Mainnet,Optimistic Rollup,Stage 1 (under review),OP Stack,Ethereum with blobs,$1.32B,Optimism
+Mantle,ZK Rollup,Stage 0,OP Stack,Ethereum with blobs,$997.2M,Mantle
+Lighter,ZK Rollup,Stage 0 (under review),—,Ethereum with blobs,$887.2M,Lighter
+Ink,Optimistic Rollup,Stage 1 (under review),OP Stack,Ethereum with blobs,$492.5M,Ink
+Whitechain,Other,Stage 0,OP Stack,Ethereum with blobs,$390.0M,—
+Starknet,ZK Rollup,Stage 1,SN Stack,Ethereum with blobs,$291.0M,Starknet
+Linea,ZK Rollup,Stage 0,—,Ethereum with blobs,$267.7M,Linea Bridge
+Celo,Optimium,Stage 0,OP Stack,EigenDA with DA Verifier,$262.2M,Celo
+World Chain,Other,Stage 0 (under review),OP Stack,Ethereum with blobs,$253.4M,World Chain
+X Layer,Other,Not applicable,"OP Stack, Agglayer CDK",Ethereum with blobs,$225.1M,X Layer
+Gnosis Chain,Other,Not applicable,—,Custom DA solution,$222.8M,Gnosis
+ZKsync Era,ZK Rollup,Stage 0,ZK Stack,Ethereum with blobs,$187.6M,zkSync
+Ronin,Other,Stage 0 (under review),OP Stack,EigenDA,$154.8M,Ronin
+Fraxtal,Other,Stage 0,OP Stack,Custom DA solution,$150.1M,Frax Finance
+Morph,Optimistic Rollup,Stage 0,—,Ethereum with blobs,$134.8M,—
+Unichain,Optimistic Rollup,Stage 1 (under review),OP Stack,Ethereum with blobs,$96.0M,Uniswap Labs
+Lighter on Robinhood,Other,Stage 0,—,Ethereum with blobs,$90.7M,—
+MegaETH,Other,Stage 0,OP Stack,EigenDA,$85.7M,MegaETH
+Manta Pacific,Other,Stage 0,OP Stack,Celestia,$74.5M,Manta CeDeFi
+BOB,Other,Stage 0 (under review),OP Stack,Ethereum with blobs,$68.3M,BOB Bridge
+Plume Network,Other,Stage 0,Arbitrum,Data Availability Committee,$55.8M,Plume
+Katana,ZK Rollup,Stage 0,"Agglayer CDK, OP Stack",Ethereum with blobs,$39.5M,—
+Scroll,ZK Rollup,Stage 0,—,Ethereum with blobs,$31.8M,Scroll Bridge
+RISE,Other,Stage 0,OP Stack,EigenDA with DA Verifier,$25.9M,—
+SX Network,Other,Stage 0 (under review),Arbitrum,Data Availability Committee,$25.8M,—
+ApeX Omni,Other,Stage 0,—,—,$24.7M,Apex
+Metis Andromeda,Other,Stage 0,OVM,Ethereum with blobs,$21.5M,Metis Bridge
+Cronos zkEVM,Other,Stage 0,ZK Stack,Custom DA solution,$21.3M,—
+Paradex,Other,Not applicable,SN Stack,Data Availability Committee,$20.7M,—
+Immutable zkEVM,Other,Not applicable,—,Custom DA solution,$18.6M,Immutable zkEVM
+Aevo,Other,Stage 0,OP Stack,EigenDA,$14.8M,Aevo
+Soneium,Other,Stage 0 (under review),OP Stack,Ethereum with blobs,$14.5M,—
+Fuel Ignition,Other,Not applicable,—,EigenDA,$14.1M,Fuel Bridge
+Abstract,ZK Rollup,Stage 0,ZK Stack,Ethereum with blobs,$13.5M,—
+Lumia Prism,Other,Not applicable,Agglayer CDK,Custom DA solution,$13.0M,Lumia
+ADI Chain,ZK Rollup,Stage 0,ZK Stack,Ethereum with calldata,$11.2M,ADI Bridge
+Haust Network,Other,Not applicable,Agglayer CDK,Custom DA solution,$10.6M,—
+Taiko Alethia,ZK Rollup,Stage 0,Taiko,Ethereum with blobs,$10.1M,Taiko Bridge
+ApeChain,Other,Stage 0,Arbitrum,"Data Availability Committee, Espresso",$9.6M,ApeCoin
+Zircuit,Other,Stage 0,OP Stack,Ethereum with blobs,$8.8M,Zircuit
+Silicon,Other,Not applicable,Agglayer CDK,Custom DA solution,$8.5M,—
+Polygon zkEVM,Other,Not applicable,Agglayer CDK,Custom DA solution,$7.9M,Polygon
+Arbitrum Nova,Optimistic Rollup,Stage 0,Arbitrum,Ethereum with blobs,$7.8M,Arbitrum
+HashKey Chain,Other,Stage 0,OP Stack,Ethereum with blobs,$7.6M,HashKey Exchange
+Mode Network,Other,Stage 0,OP Stack,Ethereum with blobs,$5.6M,—

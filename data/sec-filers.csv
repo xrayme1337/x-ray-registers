@@ -1,0 +1,15 @@
+﻿# Crypto companies that file with the SEC
+# As of 17 Nov 2026 · 10 entries
+# Source: SEC EDGAR (public domain) and Wikidata (CC0) · ties to players are X-RAY's
+# The whole list: https://x-ray.me/registers/sec-filers
+Player,Tickers,Filer category,Industry (SIC),Latest annual report,Latest quarterly report,"Current reports, 90 days","Insider forms, 90 days"
+Robinhood,HOOD,Large accelerated filer,"Security Brokers, Dealers & Flotation Companies",20 Feb 2026,28 Oct 2026,2,52
+Coinbase,COIN,Large accelerated filer,Finance Services,12 Feb 2026,29 Oct 2026,3,22
+Bitmine,"BMNP, BMNR",Non-accelerated filer<br>Emerging growth company,Finance Services,10 Nov 2026,14 Jul 2026,15,7
+U.S. Dollar Payment Token,WU,Large accelerated filer,"Services-Business Services, NEC",20 Feb 2026,4 Nov 2026,5,2
+Paradigm,—,—,—,—,—,0,0
+Ripple,—,—,—,—,—,0,0
+BitGo,—,—,—,—,—,0,0
+Chia,—,—,Finance Services,—,—,0,0
+Helius,—,—,—,—,—,0,0
+Improbable,—,—,—,—,—,0,0

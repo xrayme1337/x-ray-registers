@@ -1,0 +1,55 @@
+﻿# Who can upgrade a token: upgrade and owner keys of token contracts
+# As of 17 Nov 2026 · 1,306 entries
+# Source: the token contracts on chain (proxy slots and owner, read over public RPC) · ties to players are X-RAY's
+# Sample: the first 50 of 1,306 rows. The whole list: https://x-ray.me/registers/token-upgrade-keys · an agent reads it in full over MCP: https://x-ray.me/docs/connect
+Player,Token chain,Token upgrade,Token owner,Market cap
+Tether,Ethereum,not upgradeable,contract,$175.27B
+Circle,Ethereum,one wallet (EOA),one wallet (EOA),$69.25B
+Bitfinex,Ethereum,not upgradeable,—,$8.53B
+Chainlink,Ethereum,not upgradeable,—,$6.87B
+Decimal,Ethereum,not upgradeable,—,$4.90B
+Rain,Arbitrum One,multisig · 2 keys,multisig · 2 keys,$4.78B
+Dai,Ethereum,not upgradeable,—,$4.43B
+NEAR,Ethereum,not upgradeable,—,$4.29B
+Uniswap Labs,Ethereum,not upgradeable,—,$3.28B
+TON,Ethereum,not upgradeable,—,$2.97B
+Paxos,Ethereum,timelock · 1 days,timelock · 1 days,$2.62B
+Shiba Inu,Ethereum,not upgradeable,—,$2.29B
+Cronos,Ethereum,not upgradeable,contract,$2.29B
+Quant,Ethereum,not upgradeable,—,$1.85B
+Aave,Ethereum,contract,—,$1.73B
+United Stables,Ethereum,multisig · 2 keys,multisig · 2 keys,$1.64B
+Aster,BNB Chain,not upgradeable,—,$1.62B
+Ethena Labs,Ethereum,not upgradeable,timelock · 1 days,$1.57B
+Ondo Finance,Ethereum,not upgradeable,—,$1.50B
+World Liberty Financial USD,Ethereum,multisig · 3 keys,multisig · 3 keys,$1.45B
+USDD,Ethereum,not upgradeable,—,$1.45B
+Internet Computer,Ethereum,not upgradeable,one wallet (EOA),$1.38B
+Mantle,Ethereum,timelock · 1 days,multisig · 6 keys,$1.23B
+Sky,Ethereum,not upgradeable,—,$1.21B
+Bitget,Ethereum,not upgradeable,—,$1.14B
+Venice,Base,not upgradeable,multisig · 4 keys,$1.04B
+USDGO,Ethereum,one wallet (EOA),one wallet (EOA),$1.03B
+Bitway Earn,Ethereum,not upgradeable,multisig · 2 keys,$1.01B
+World Chain,Ethereum,not upgradeable,multisig,$1.00B
+Morpho,Ethereum,multisig · 6 keys,multisig · 6 keys,$996.3M
+Open USD,Ethereum,one wallet (EOA),one wallet (EOA),$961.0M
+Arbitrum,Ethereum,contract,—,$915.7M
+KuCoin,Ethereum,not upgradeable,multisig · 2 keys,$862.3M
+Polygon,Ethereum,not upgradeable,—,$856.8M
+c8ntinuum,Ethereum,not upgradeable,—,$850.7M
+Midnight,BNB Chain,not upgradeable,contract,$821.0M
+Gate,Ethereum,not upgradeable,one wallet (EOA),$788.1M
+Grow,Ethereum,not upgradeable,—,$779.3M
+Render Foundation,Ethereum,renounced,one wallet (EOA),$773.2M
+Lighter,Ethereum,not upgradeable,—,$751.3M
+Dohrnii,Ethereum,one wallet (EOA),one wallet (EOA),$740.5M
+Injective,Ethereum,not upgradeable,—,$718.8M
+LayerZero Labs,Ethereum,not upgradeable,contract,$617.9M
+Pieverse,Ethereum,not upgradeable,multisig · 2 keys,$587.5M
+Beldex,BNB Chain,one wallet (EOA),one wallet (EOA),$563.3M
+PancakeSwap,BNB Chain,not upgradeable,contract,$517.3M
+TrueUSD,Ethereum,not upgradeable,multisig · 2 keys,$493.9M
+ether.fi,Ethereum,not upgradeable,—,$456.3M
+Stable Swap,BNB Chain,multisig · 3 keys,multisig · 3 keys,$441.7M
+Nexo,Ethereum,not upgradeable,one wallet (EOA),$430.4M

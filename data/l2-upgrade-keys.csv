@@ -1,0 +1,55 @@
+﻿# Who can upgrade each Ethereum L2: upgrade keys by rollup
+# As of 17 Nov 2026 · 97 entries
+# Source: L2BEAT (MIT) · ties to players are X-RAY's
+# Sample: the first 50 of 97 rows. The whole list: https://x-ray.me/registers/l2-upgrade-keys · an agent reads it in full over MCP: https://x-ray.me/docs/connect
+Project,Type,Stage,Value secured,Can upgrade,Single wallets,Shortest delay,Player on X-RAY
+Base Chain,Optimistic Rollup,Stage 1,$13.15B,2 holders,1,no delay,Base
+Arbitrum One,Optimistic Rollup,Stage 1,$8.99B,4 holders,0,no delay,Arbitrum
+Hyperliquid,Other,Not applicable,$5.68B,1 holder,1,no delay,Hyperliquid
+Polygon PoS,Other,Not applicable,$3.61B,1 holder,0,no delay,Polygon
+Robinhood Chain,Other,Stage 0,$1.92B,5 holders,1,no delay,Robinhood Chain
+OP Mainnet,Optimistic Rollup,Stage 1,$1.32B,1 holder,0,no delay,Optimism
+Mantle,ZK Rollup,Stage 0,$997.2M,2 holders,0,no delay,Mantle
+Lighter,ZK Rollup,Stage 0,$887.2M,1 holder,0,no delay,Lighter
+Ink,Optimistic Rollup,Stage 1,$492.5M,1 holder,0,no delay,Ink
+Whitechain,Other,Stage 0,$390.0M,1 holder,0,no delay,—
+Starknet,ZK Rollup,Stage 1,$291.0M,6 holders,2,no delay,Starknet
+Linea,ZK Rollup,Stage 0,$267.7M,2 holders,0,no delay,Linea Bridge
+Celo,Optimium,Stage 0,$262.2M,6 holders,0,no delay,Celo
+World Chain,Other,Stage 0,$253.4M,2 holders,0,no delay,World Chain
+X Layer,Other,Not applicable,$225.1M,4 holders,1,no delay,X Layer
+Gnosis Chain,Other,Not applicable,$222.8M,3 holders,1,no delay,Gnosis
+ZKsync Era,ZK Rollup,Stage 0,$187.6M,2 holders,0,no delay,zkSync
+Ronin,Other,Stage 0,$154.8M,3 holders,0,no delay,Ronin
+Fraxtal,Other,Stage 0,$150.1M,1 holder,0,no delay,Frax Finance
+Morph,Optimistic Rollup,Stage 0,$134.8M,1 holder,0,no delay,—
+Unichain,Optimistic Rollup,Stage 1,$96.0M,1 holder,0,no delay,Uniswap Labs
+Lighter on Robinhood,Other,Stage 0,$90.7M,1 holder,0,no delay,—
+MegaETH,Other,Stage 0,$85.7M,5 holders,0,no delay,MegaETH
+Manta Pacific,Other,Stage 0,$74.5M,1 holder,0,no delay,Manta CeDeFi
+BOB,Other,Stage 0,$68.3M,1 holder,0,no delay,BOB Bridge
+Plume Network,Other,Stage 0,$55.8M,1 holder,0,no delay,Plume
+Katana,ZK Rollup,Stage 0,$39.5M,9 holders,0,no delay,—
+Scroll,ZK Rollup,Stage 0,$31.8M,1 holder,0,no delay,Scroll Bridge
+Blast,Other,Stage 0,$31.4M,2 holders,0,no delay,—
+RISE,Other,Stage 0,$25.9M,5 holders,0,no delay,—
+SX Network,Other,Stage 0,$25.8M,1 holder,0,no delay,—
+ApeX Omni,Other,Stage 0,$24.7M,5 holders,0,no delay,Apex
+Metis Andromeda,Other,Stage 0,$21.5M,1 holder,0,no delay,Metis Bridge
+Cronos zkEVM,Other,Stage 0,$21.3M,2 holders,0,no delay,—
+Paradex,Other,Not applicable,$20.7M,3 holders,0,no delay,—
+Immutable zkEVM,Other,Not applicable,$18.6M,1 holder,0,no delay,Immutable zkEVM
+Aevo,Other,Stage 0,$14.8M,1 holder,0,no delay,Aevo
+Soneium,Other,Stage 0,$14.5M,1 holder,0,no delay,—
+Fuel Ignition,Other,Not applicable,$14.1M,none listed,—,—,Fuel Bridge
+Abstract,ZK Rollup,Stage 0,$13.5M,3 holders,0,no delay,—
+Lumia Prism,Other,Not applicable,$13.0M,2 holders,0,no delay,Lumia
+ADI Chain,ZK Rollup,Stage 0,$11.2M,2 holders,0,no delay,ADI Bridge
+Haust Network,Other,Not applicable,$10.6M,2 holders,0,no delay,—
+Taiko Alethia,ZK Rollup,Stage 0,$10.1M,1 holder,0,no delay,Taiko Bridge
+ApeChain,Other,Stage 0,$9.6M,2 holders,1,no delay,ApeCoin
+Zircuit,Other,Stage 0,$8.8M,1 holder,0,no delay,Zircuit
+Silicon,Other,Not applicable,$8.5M,2 holders,0,no delay,—
+Polygon zkEVM,Other,Not applicable,$7.9M,3 holders,0,no delay,Polygon
+Arbitrum Nova,Optimistic Rollup,Stage 0,$7.8M,7 holders,4,no delay,Arbitrum
+HashKey Chain,Other,Stage 0,$7.6M,1 holder,0,no delay,HashKey Exchange

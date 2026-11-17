@@ -1,0 +1,36 @@
+﻿# Superchain chains: the OP Stack networks in Optimism's registry
+# As of 17 Nov 2026 · 31 entries
+# Source: Superchain Registry (ethereum-optimism, MIT © 2023 Optimism) · ties to players are X-RAY's
+# The whole list: https://x-ray.me/registers/superchain-chains
+Chain,Chain ID,Upgrade key,Fault proofs,Data availability,Gas token,Superchain upgrades,Player on X-RAY
+Automata Mainnet,65536,its own,none,alternative DA,custom token,own schedule,—
+Binary Mainnet,624,its own,none,Ethereum,custom token,follows,—
+BOB,60808,its own,permissioned,Ethereum,ETH,own schedule,BOB Bridge
+Boba Mainnet,288,its own,permissioned,Ethereum,ETH,own schedule,Boba Bridge
+Celo,42220,its own,permissioned,alternative DA,custom token,own schedule,Celo
+Cyber Mainnet,7560,its own,permissioned,alternative DA,ETH,own schedule,Cyber
+Ethernity,183,its own,none,Ethereum,ETH,follows,—
+Fraxtal,252,its own,none,alternative DA,ETH,own schedule,Frax Finance
+Funki,33979,its own,permissioned,alternative DA,ETH,own schedule,—
+HashKey Chain,177,its own,permissioned,Ethereum,custom token,own schedule,HashKey Exchange
+Ink,57073,Optimism governance,permissionless,Ethereum,ETH,follows,Ink
+Lisk,1135,its own,permissioned,Ethereum,ETH,follows,Lisk
+Lyra Chain,957,its own,permissioned,alternative DA,ETH,own schedule,—
+Metal L2,1750,its own,permissioned,Ethereum,ETH,follows,Metal DAO
+Mint Mainnet,185,its own,permissioned,Ethereum,ETH,own schedule,—
+Mode,34443,its own,permissioned,Ethereum,ETH,follows,—
+OP Mainnet,10,Optimism governance,permissionless,Ethereum,ETH,follows,Optimism
+Orderly Mainnet,291,its own,permissioned,alternative DA,ETH,own schedule,—
+Polynomial,8008,its own,permissioned,Ethereum,ETH,own schedule,—
+RACE Mainnet,6805,its own,none,Ethereum,ETH,own schedule,—
+Redstone,690,its own,none,alternative DA,ETH,own schedule,—
+Settlus Mainnet,5371,its own,permissioned,Ethereum,ETH,own schedule,—
+Shape,360,its own,permissioned,Ethereum,ETH,own schedule,—
+Silent Data Mainnet,380929,its own,permissioned,alternative DA,ETH,own schedule,—
+Soneium,1868,Optimism governance,permissioned,Ethereum,ETH,follows,—
+Superseed,5330,its own,permissioned,Ethereum,ETH,own schedule,—
+Swan Chain Mainnet,254,its own,none,Ethereum,ETH,own schedule,—
+Unichain,130,Optimism governance,permissionless,Ethereum,ETH,follows,Uniswap Labs
+World Chain,480,its own,permissioned,Ethereum,ETH,own schedule,World Chain
+Xterio Chain (ETH),2702128,its own,none,alternative DA,ETH,own schedule,—
+Zora,7777777,its own,permissioned,Ethereum,ETH,follows,—

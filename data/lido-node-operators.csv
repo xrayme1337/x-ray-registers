@@ -1,0 +1,38 @@
+﻿# Lido node operators by stake
+# As of 16 Nov 2026 · 33 entries
+# Source: Lido contracts on Ethereum (Staking Router, Node Operators Registry, Curated Module v2) · ties to players are X-RAY's
+# The whole list: https://x-ray.me/registers/lido-node-operators
+Operator,Stake,Share of Lido,Validators,Player on X-RAY
+Ebunker,"300,384 ETH",3.13%,"2,083",Ebunker
+RockLogic GmbH,"298,405 ETH",3.11%,"1,181",RockLogic
+Launchnodes,"285,593 ETH",2.97%,"1,898",Launchnodes
+Everstake,"273,223 ETH",2.84%,"1,289",Everstake
+HashKey Cloud,"270,036 ETH",2.81%,"4,196",HashKey Cloud
+stakefish,"265,703 ETH",2.77%,656,stakefish
+Stakely,"265,634 ETH",2.77%,908,Stakely
+MAVAN,"263,917 ETH",2.75%,675,Bitmine
+Blockdaemon,"262,881 ETH",2.74%,"7,548",Blockdaemon
+Prysm by Offchain Labs,"262,538 ETH",2.73%,"7,247",Offchain Labs
+P2P.org,"261,920 ETH",2.73%,819,P2P.org
+Figment,"261,504 ETH",2.72%,"8,053",Figment
+Twinstake,"261,344 ETH",2.72%,140,Twinstake
+ChainSafe,"261,216 ETH",2.72%,"8,055",ChainSafe
+Develp,"261,152 ETH",2.72%,"7,994",Develp
+Allnodes,"261,120 ETH",2.72%,"8,060",Allnodes
+Solstice,"261,120 ETH",2.72%,"7,997",Solstice
+Gateway.fm AS,"261,024 ETH",2.72%,"8,006",Gateway.fm
+Simply Staking,"260,846 ETH",2.71%,"5,077",Simply Staking
+Chainlayer,"260,809 ETH",2.71%,"1,658",Chainlayer
+Stakin by The Tie,"260,608 ETH",2.71%,"5,727",Stakin
+DSRV,"260,320 ETH",2.71%,"8,085",DSRV
+Blockscape,"259,968 ETH",2.71%,"8,056",Blockscape
+Kukis Global,"259,104 ETH",2.70%,"7,617",Kukis Global
+Attestant (BVI) Limited,"258,628 ETH",2.69%,"5,383",Bitwise Asset Management
+Sigma Prime,"257,164 ETH",2.68%,"6,572",Sigma Prime
+Galaxy,"257,056 ETH",2.68%,"7,491",Galaxy
+ParaFi Technologies,"256,639 ETH",2.67%,"7,573",ParaFi Tech
+RockawayX Infra,"256,544 ETH",2.67%,"7,313",RockawayX
+SenseiNode,"253,857 ETH",2.64%,"5,728",SenseiNode
+RockX,"253,440 ETH",2.64%,"7,920",RockX
+Staking Facilities,"249,826 ETH",2.60%,"6,385",Staking Facilities GmbH
+InfStones,"249,347 ETH",2.60%,"6,436",InfStones
