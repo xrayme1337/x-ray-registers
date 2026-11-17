@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use these files, please cite them as below and keep each file's source credit."
+title: "X-RAY open register samples"
+type: dataset
+authors:
+  - name: "X-RAY"
+    website: "https://x-ray.me"
+url: "https://x-ray.me/registers"
+repository-code: "https://github.com/xrayme1337/x-ray-registers"
+license: CC-BY-4.0
+keywords:
+  - MiCA
+  - crypto regulation
+  - sanctions
+  - DAO governance
+  - upgrade keys
+  - Web3
