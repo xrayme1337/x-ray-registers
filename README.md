@@ -1,5 +1,7 @@
 # X-RAY open register samples
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24300931.svg)](https://doi.org/10.5281/zenodo.24300931)
+
 Sample files of the register lists [X-RAY](https://x-ray.me) keeps on Web3's players: who is licensed, who is sanctioned, who holds the keys. Each file is the first 50 rows of one list, exactly as [x-ray.me/registers](https://x-ray.me/registers) serves it, with the list's date and its source's credit line in the head.
 
 X-RAY is a map of Web3's organisations: who controls each one, where its capital sits and where it stands with regulators, every fact with its source.
@@ -60,7 +62,9 @@ No source listed here endorses X-RAY or these files. The files are information, 
 
 ## Cite
 
-X-RAY. *X-RAY open register samples*. https://github.com/xrayme1337/x-ray-registers
+X-RAY. *X-RAY open register samples*. Zenodo. https://doi.org/10.5281/zenodo.24300931
+
+The DOI names every version; each release is a dated snapshot with a DOI of its own.
 
 ## Contact
 
